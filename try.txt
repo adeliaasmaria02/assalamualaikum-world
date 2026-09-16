@@ -1,4 +1,6 @@
 GITHUB PLANNING 
 - trying as much as possible 
-- getting familiar with the web
+- getting familiar with the ux
+  + click every tab on the web
 - uploading my project immediately
+  + review happygitwithr
