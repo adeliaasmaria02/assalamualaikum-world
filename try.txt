@@ -1,6 +1,7 @@
 GITHUB PLANNING 
 - trying as much as possible 
-- getting familiar with the ux
-  + click every tab on the web
+- getting familiar with the ux and the
+  + watching video by wpu unpas
+  + watching video by codewithmark
 - uploading my project immediately
   + review happygitwithr
