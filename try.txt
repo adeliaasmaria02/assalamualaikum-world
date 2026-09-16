@@ -1,4 +1,6 @@
 GITHUB PLANNING 
 - trying as much as possible 
+  + watching video by wpu unpas
 - getting familiar with the web
+  + watching video by codewithmark
 - uploading my project immediately
